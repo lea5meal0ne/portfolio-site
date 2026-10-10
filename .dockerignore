@@ -1,0 +1,10 @@
+data
+.env
+.git
+portfolio
+portfolio.exe
+dist
+*.test
+
+portfolio-site
+portfolio-site.exe

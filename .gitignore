@@ -1,0 +1,8 @@
+/data/
+/portfolio
+/portfolio.exe
+/dist/
+.env
+*.test
+/portfolio-site
+/portfolio-site.exe

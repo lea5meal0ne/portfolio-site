@@ -1,0 +1,15 @@
+Стартовые фотографии служат демонстрацией дизайна, не являются работами владельца портфолио.
+Источник: Unsplash, https://unsplash.com/license
+
+mountains.jpg — https://images.unsplash.com/photo-1464822759023-fed622ff2c3b
+forest.jpg — https://images.unsplash.com/photo-1448375240586-882707db888b
+coast.jpg — https://images.unsplash.com/photo-1741619231231-34b732ac2bd1
+ridges.jpg — https://images.unsplash.com/photo-1480455881612-5d21f957b8d5
+dunes.jpg — https://images.unsplash.com/photo-1509316785289-025f5b846b35
+lake.jpg — https://images.unsplash.com/photo-1470770841072-f978cf4d019e
+sea.jpg — https://images.unsplash.com/photo-1687977424023-83e3d3385131
+
+Шрифты: Alice и Montserrat, Google Fonts, SIL Open Font License 1.1.
+Лицензии в web/static/fonts/.
+https://github.com/google/fonts/tree/main/ofl/alice
+https://github.com/google/fonts/tree/main/ofl/montserrat
